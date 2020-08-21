@@ -1,2 +1,3 @@
 # Projects
-This folder contains projects developed by me
+This folder contains projects developed by me.
+
